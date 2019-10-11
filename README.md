@@ -1,3 +1,8 @@
+#References
+1. https://www.freecodecamp.org YouTube Channel, Specific Video: https://youtu.be/PkZNo7MFNFg
+2. https://stackowerflow.com, Specific Issue: https://stackoverflow.com/questions/12755558/how-to-sum-two-fields-in-angularjs-and-show-the-result-in-an-label        
+3. https://www.w3schools.com, Some HTML Issues: https://www.w3schools.com/html/html_id.asp, https://www.w3schools.com/tags/tag_title.asp
+
 # Ödev 1
 Dönemin ilk ödevi için, klasörde HTML dosyası olarak verilmiş web sayfası içerisinde,
 1.	“Topla” düğmesine basınca “Metin Kutusu 1“ ve “Metin Kutusu 2” içerisine yazılmış iki sayıyı toplayarak sonucu “alert()” metodunu kullanarak ekrana çıkaran JavaScript kodunu yazınız. 
