@@ -1,5 +1,6 @@
-#References
-1. https://www.freecodecamp.org YouTube Channel, Specific Video: https://youtu.be/PkZNo7MFNFg
+# References
+
+1. freeCodeCamp.org YouTube Channel, Specific Video: https://youtu.be/PkZNo7MFNFg
 2. https://stackowerflow.com, Specific Issue: https://stackoverflow.com/questions/12755558/how-to-sum-two-fields-in-angularjs-and-show-the-result-in-an-label        
 3. https://www.w3schools.com, Some HTML Issues: https://www.w3schools.com/html/html_id.asp, https://www.w3schools.com/tags/tag_title.asp
 
