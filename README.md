@@ -5,7 +5,8 @@
       * https://stackoverflow.com/questions/12755558/how-to-sum-two-fields-in-angularjs-and-show-the-result-in-an-label
       * https://stackoverflow.com/a/25420413
 3. https://www.w3schools.com, Some HTML Issues: 
-      * https://www.w3schools.com/html/html_id.asp, https://www.w3schools.com/tags/tag_title.asp
+      * https://www.w3schools.com/html/html_id.asp
+      * https://www.w3schools.com/tags/tag_title.asp
 
 # Ödev 1
 Dönemin ilk ödevi için, klasörde HTML dosyası olarak verilmiş web sayfası içerisinde,
