@@ -1,40 +1,52 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html>
 <head>
 	<title>Eyüb Salih Özdemir, 2018280059</title>
 </head>
 <body>
-<h1>Eyüb Salih Özdemir, 2018280059</h1>
+	<h1>Eyüb Salih Özdemir, 2018280059</h1>
 <h2>2019 Güz Döneminin İlk Ödevi</h2>
+
 <label for="id1">Metin kutusu 1</label>
-<input type='number' id='id1' /> 
+<input type='text' id='id1' placeholder="Bir sayı giriniz" onkeyup="digits(this)"/> 
 <br>
+
 <label for="id2">Metin kutusu 2</label>
-<input type='number' id='id2' /> 
+<input type='text' id='id2' placeholder="Bir sayı giriniz" onkeyup="digits(this)" /> 
 <br><br>
+
 <button type="button" onclick="showAlertForNumbers();">Topla</button>
 <br><br>
+
 <label for="id3">Metin kutusu 3</label>
 <input type='text' id='id3' /> 
 <br>
+
 <label for="id4">Metin kutusu 4</label>
 <input type='text' id='id4' /> 
 <br><br>
+
 <button type="button" onclick="showAlertForTexts();">Yapıştır</button>
 
 <script> 
+
 	function showAlertForNumbers() {	
 		var value1 = parseInt(document.getElementById("id1").value);
 		var value2 = parseInt(document.getElementById("id2").value);
 		value1 += value2;
 		alert(value1); }
-				
+			
 	function showAlertForTexts() {
-		var text1 = document.getElementById("id3").value;
+   		var text1 = document.getElementById("id3").value;
 		var text2 = document.getElementById("id4").value;
 		text1 += text2;
-		alert(text1); }				 
+		alert(text1); }
+				 
+	var digits = function(box) { 
+	box.value = box.value.replace(/[^0-9]/g, ''); };
+
 </script>
 
 </body>
 </html>
+ 
